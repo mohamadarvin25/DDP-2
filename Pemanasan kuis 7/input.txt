@@ -1,0 +1,3 @@
+buku -1 9000.0
+pensil 1 2000.0
+penghapus 1 3000.0
